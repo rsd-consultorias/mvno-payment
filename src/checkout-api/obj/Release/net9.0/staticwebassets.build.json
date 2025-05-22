@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eGoZ8d+GByD4QMWoZuzBKAf1PzDmDoiAfLuam+Cg3BY=",
+  "Source": "checkout-api",
+  "BasePath": "_content/checkout-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

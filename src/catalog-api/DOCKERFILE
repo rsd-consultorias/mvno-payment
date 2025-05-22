@@ -1,0 +1,17 @@
+# Use uma imagem base para o runtime
+FROM mcr.microsoft.com/dotnet/aspnet:7.0-alpine AS runtime
+WORKDIR /app
+
+# Copie os arquivos do build realizado anteriormente
+# Supondo que o build gerou uma pasta "out" com os binários
+COPY /bin/Release/net9.0 ./
+
+# Configuração do serviço para Istio (opcional)
+ENV SERVICE_PORT=80
+ENV ISTIO_ENABLED=true
+
+# Exponha a porta para comunicação
+EXPOSE 80
+
+# Comando de inicialização
+ENTRYPOINT ["dotnet", "catalog-api.dll"]

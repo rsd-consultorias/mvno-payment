@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bmA0b6TnvhbxH9ROpP7nDigqYBWwl2qz6fcMXpagYAY=",
+  "Source": "invoicing-api",
+  "BasePath": "_content/invoicing-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,9 @@
+/Users/rafaeldias/repositories/payment-system/src/notifications-api/bin/Release/net9.0/publish/notifications-api
+/Users/rafaeldias/repositories/payment-system/src/notifications-api/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/rafaeldias/repositories/payment-system/src/notifications-api/bin/Release/net9.0/publish/appsettings.json
+/Users/rafaeldias/repositories/payment-system/src/notifications-api/bin/Release/net9.0/publish/notifications-api.dll
+/Users/rafaeldias/repositories/payment-system/src/notifications-api/bin/Release/net9.0/publish/notifications-api.deps.json
+/Users/rafaeldias/repositories/payment-system/src/notifications-api/bin/Release/net9.0/publish/notifications-api.runtimeconfig.json
+/Users/rafaeldias/repositories/payment-system/src/notifications-api/bin/Release/net9.0/publish/notifications-api.pdb
+/Users/rafaeldias/repositories/payment-system/src/notifications-api/bin/Release/net9.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/rafaeldias/repositories/payment-system/src/notifications-api/bin/Release/net9.0/publish/Microsoft.OpenApi.dll

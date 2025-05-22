@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MnEgVx3yfA/X52WLCtoGFc4oXZJBKsP6AbcayZ6MldE=",
+  "Source": "catalog-api",
+  "BasePath": "_content/catalog-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
